@@ -1,0 +1,25 @@
+{
+  "name": "jQuery.maxlength",
+  "filename": "jQuery.maxlength.js",
+  "main": "jQuery.maxlength.js",
+  "version": "0.0.1",
+  "homepage": "https://tg0825.github.io",
+  "authors": [
+    "tg0825 <tg0825@gmail.com>"
+  ],
+  "description": "The maxlength element is added.",
+  "keywords": [
+    "maxlength",
+    "jquery",
+    "jQuery.maxlength",
+    "jquery-maxlength"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.2"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tg0825/jQuery.maxlength"
+  },
+}

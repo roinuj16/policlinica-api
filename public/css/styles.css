@@ -1,0 +1,6 @@
+/*Asterisco de obrigatoriedade dos formularios*/
+.required::after {
+    content:"*";
+    color: red;
+    margin-left: 2px;
+}
